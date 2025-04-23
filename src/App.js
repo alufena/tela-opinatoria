@@ -2,7 +2,6 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import { FeedbackProvider } from './context/FeedbackContext';
 import AboutIconLink from './components/AboutIconLink';
 import AboutPage from './pages/AboutPage';
-import FeedBackData from './data/FeedBackData';
 import FeedbackForm from './components/FeedbackForm';
 import FeedbackList from './components/FeedbackList';
 import FeedbackStats from './components/FeedbackStats';
